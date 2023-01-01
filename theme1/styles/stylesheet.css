@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.people img{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+}
+.upper-footer btn{
+    border-radius: none;
+}
+footer a{
+    text-decoration: none;
+}
+footer p a{
+    text-decoration: underline;
+}
+footer p a:hover{
+    color: white;
+    background-color: black;
+}
